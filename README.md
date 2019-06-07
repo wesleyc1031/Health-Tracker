@@ -57,7 +57,10 @@ Logout
 
 # How this project could be better
 
-Implementing a way for a user to check their previous health information and displaying that information once they finished adding their new health information. Fixing the design of the website to make the text more readable and look nicer.
+* Implementing a way for a user to check their previous health information
+* Displaying that information once they finished adding their new health information 
+* Fixing the design of the website to make the text more readable
+* Centering the text to make it look nicer
 
 # Source code used to help develop this project
 
