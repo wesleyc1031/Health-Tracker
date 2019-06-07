@@ -20,11 +20,15 @@ Resetting password
 
 ![Reset Password](https://user-images.githubusercontent.com/51250479/59074137-2e050c00-8898-11e9-897a-8bf9c90f9c4b.png)
 
+Validates user's login credentials
+
+Stores user's account information in a database and hashes the password for security
+
+![Account Database](https://user-images.githubusercontent.com/51250479/59074434-66591a00-8899-11e9-902a-9bbef0dd9104.png)
+
 User's profile
 
 ![Profile](https://user-images.githubusercontent.com/51250479/59074146-3a896480-8898-11e9-9010-bca6ebc56541.png)
-
-Validates user's login credentials
 
 Health information form
 
@@ -37,6 +41,8 @@ Stores user's health information in a database
 ![Health Tracker Database](https://user-images.githubusercontent.com/51250479/59074240-9227d000-8898-11e9-90e7-dd03d4de396d.png)
 
 Displays average health information by gender
+
+![Average Health Results](https://user-images.githubusercontent.com/51250479/59074490-94d6f500-8899-11e9-800e-3bc6a7017580.png)
 
 Logout button
 
