@@ -5,9 +5,16 @@ This was a 2-month group final project for a Software Engineering class where ou
 ## Features:
 
 Registration form
+
 ![Sign Up Form](https://user-images.githubusercontent.com/51250479/59073950-53dde100-8897-11e9-88f7-f6e56d46ecf8.png)
 
+Shows that you have been registered
+
+![Registered](https://user-images.githubusercontent.com/51250479/59074095-f26a4200-8897-11e9-9f0a-c1e949d84049.png)
+
 Login form
+
+![Login Form](https://user-images.githubusercontent.com/51250479/59074068-d8306400-8897-11e9-8312-27f6bc8cb19f.png)
 
 Validates user's login credentials
 
