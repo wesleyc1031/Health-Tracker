@@ -16,15 +16,31 @@ Login form
 
 ![Login Form](https://user-images.githubusercontent.com/51250479/59074068-d8306400-8897-11e9-8312-27f6bc8cb19f.png)
 
+Resetting password
+
+![Reset Password](https://user-images.githubusercontent.com/51250479/59074137-2e050c00-8898-11e9-897a-8bf9c90f9c4b.png)
+
+User's profile
+
+![Profile](https://user-images.githubusercontent.com/51250479/59074146-3a896480-8898-11e9-9010-bca6ebc56541.png)
+
 Validates user's login credentials
 
 Health information form
 
+![Health Tracker](https://user-images.githubusercontent.com/51250479/59074168-53921580-8898-11e9-8a9b-feb7fd1b2422.png)
+
+![Health Tracker 2](https://user-images.githubusercontent.com/51250479/59074183-63115e80-8898-11e9-9f90-bcda872dcb1b.png)
+
 Stores user's health information in a database
+
+![Health Tracker Database](https://user-images.githubusercontent.com/51250479/59074240-9227d000-8898-11e9-90e7-dd03d4de396d.png)
 
 Displays average health information by gender
 
 Logout button
+
+![Logged Out](https://user-images.githubusercontent.com/51250479/59074196-6f95b700-8898-11e9-82f6-09f1f171fb57.png)
 
 Software used:
 •	NetBeans- https://netbeans.org/
