@@ -73,5 +73,3 @@ Implementing a way for a user to check their previous health information and dis
 *    Code version: 1.0
 *    Type: NetBeans, MySQL, PHPMyAdmin
 *    Availability: https://clevertechie.com/php/20/login-system-php-mysql-database
-
-***************************************************************************************
