@@ -2,7 +2,7 @@
 
 This was a 2-month group final project for a Software Engineering class where our goal was to create a web application giving a user a way to keep track of their health information.
 
-## Features:
+# Features
 
 Registration form
 
@@ -44,22 +44,24 @@ Displays average health information by gender
 
 ![Average Health Results](https://user-images.githubusercontent.com/51250479/59074490-94d6f500-8899-11e9-800e-3bc6a7017580.png)
 
-Logout button
+Logout
 
 ![Logged Out](https://user-images.githubusercontent.com/51250479/59074196-6f95b700-8898-11e9-82f6-09f1f171fb57.png)
 
-Software used:
+# Software used
+
 •	NetBeans- https://netbeans.org/
 •	MySQL- https://www.mysql.com/
 •	PHPMyAdmin- https://www.phpmyadmin.net/
 •	XAMPP- https://www.apachefriends.org/index.html
 
-How this project could be better:
+# How this project could be better
+
 Implementing a way for a user to check their previous health information and displaying that information once they finished adding their new health information.
 
-Source code used to help develop this project:
+# Source code used to help develop this project
 
-***************************************************************************************/
+***************************************************************************************
 
 *    Title: Create a Login System using PHP and MYSQL Database
 *    Author: Clever Techie
@@ -68,7 +70,7 @@ Source code used to help develop this project:
 *    Type: NetBeans, MySQL, PHPMyAdmin
 *    Availability: https://clevertechie.com/php/19/php-user-registration-form-mysql
 
-***************************************************************************************/
+***************************************************************************************
 
 *    Title: PHP User Registration Form with MySQL & Image Upload
 *    Author: Clever Techie
@@ -77,4 +79,4 @@ Source code used to help develop this project:
 *    Type: NetBeans, MySQL, PHPMyAdmin
 *    Availability: https://clevertechie.com/php/20/login-system-php-mysql-database
 
-***************************************************************************************/
+***************************************************************************************
