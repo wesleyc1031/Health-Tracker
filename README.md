@@ -50,18 +50,13 @@ Logout
 
 # Software used
 
-•	NetBeans- https://netbeans.org/
-•	MySQL- https://www.mysql.com/
-•	PHPMyAdmin- https://www.phpmyadmin.net/
-•	XAMPP- https://www.apachefriends.org/index.html
+NetBeans (https://netbeans.org/), MySQL (https://www.mysql.com/), PHPMyAdmin (https://www.phpmyadmin.net/), XAMPP (https://www.apachefriends.org/index.html)
 
 # How this project could be better
 
-Implementing a way for a user to check their previous health information and displaying that information once they finished adding their new health information.
+Implementing a way for a user to check their previous health information and displaying that information once they finished adding their new health information. Fixing the design of the website to make the text more readable and look nicer.
 
 # Source code used to help develop this project
-
-***************************************************************************************
 
 *    Title: Create a Login System using PHP and MYSQL Database
 *    Author: Clever Techie
