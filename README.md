@@ -3,14 +3,20 @@
 This was a 2-month group final project for a Software Engineering class where our goal was to create a web application giving a user a way to keep track of their health information.
 
 Features:
-•	Registration form
+Registration form
+![Sign Up Form](https://user-images.githubusercontent.com/51250479/59073950-53dde100-8897-11e9-88f7-f6e56d46ecf8.png)
 
-•	Login form
-•	Validates user's login credentials
-•	Health information form
-•	Stores user's health information in a database
-•	Displays average health information by gender
-•	Logout button
+Login form
+
+Validates user's login credentials
+
+Health information form
+
+Stores user's health information in a database
+
+Displays average health information by gender
+
+Logout button
 
 Software used:
 •	NetBeans- https://netbeans.org/
