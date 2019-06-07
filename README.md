@@ -50,7 +50,10 @@ Logout
 
 # Software used
 
-NetBeans (https://netbeans.org/), MySQL (https://www.mysql.com/), PHPMyAdmin (https://www.phpmyadmin.net/), XAMPP (https://www.apachefriends.org/index.html)
+* NetBeans- (https://netbeans.org/)
+* MySQL- (https://www.mysql.com/) 
+* PHPMyAdmin- (https://www.phpmyadmin.net/)
+* XAMPP- (https://www.apachefriends.org/index.html)
 
 # How this project could be better
 
