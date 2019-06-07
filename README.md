@@ -2,7 +2,8 @@
 
 This was a 2-month group final project for a Software Engineering class where our goal was to create a web application giving a user a way to keep track of their health information.
 
-Features:
+## Features:
+
 Registration form
 ![Sign Up Form](https://user-images.githubusercontent.com/51250479/59073950-53dde100-8897-11e9-88f7-f6e56d46ecf8.png)
 
